@@ -36,6 +36,17 @@ QT_QPA_PLATFORM=xcb python3 PProofing.py
 ```
 
 
+
+#App
+
+![App](App.png)
+
+
+
+
+
+
+
 #line 155
 
 ```
