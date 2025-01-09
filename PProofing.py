@@ -152,9 +152,10 @@ if __name__ == "__main__":
     app = QApplication(sys.argv)
 
     # Get all image files in the directory
-    image_directory = "/home/sab/Pictures/Screenshots/"
+    image_directory = "/home/sab/Downloads/Icon/100/"
     image_paths = [os.path.join(image_directory, f) for f in os.listdir(image_directory)
-                   if f.lower().endswith(('.png', '.jpg', '.jpeg', '.bmp', '.gif'))]
+                   if f.lower().endswith(('.png', '.jpg', '.jpeg', '.bmp', '.ico'))]
+                   #if f.lower().endswith(('.png', '.jpg', '.jpeg', '.bmp', '.gif'))]
 
     if not image_paths:
         print("No image files found in the specified directory.")
