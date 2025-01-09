@@ -48,6 +48,15 @@ Then run the application.
 
 
 
+# tips
+
+Right-click on any image to view it in full scale.
+
+
+
+#Todo
+
+To-do: Create a GUI application to connect to an online FTP server for accessing photo locations.
 
 
 
@@ -63,13 +72,13 @@ https://gist.github.com/acbetter/32c575803ec361c3e82064e60db4e3e0
 
 https://photoproofing.it/
 https://github.com/tiaringhio/PhotoProofing-Docs
+
+
+https://github.com/oliyan/shortlist-photos
+https://github.com/KaniyamFoundation/ProjectIdeas/issues/156
 ```
 
 
-
-# tips
-
-Right-click on any image to view it in full scale.
 
 
 
